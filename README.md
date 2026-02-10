@@ -1,4 +1,5 @@
 🧠 AI-Assisted API Test Orchestration Framework (Postman + Newman + GPT)
+
 📌 Overview
 This project demonstrates a Test Architect–grade automation framework where Postman collections are treated as executable specifications, and GPT assists in orchestration, analysis, and decision-making—not execution.
 The framework evolves traditional API automation into an AI-assisted testing system capable of:
